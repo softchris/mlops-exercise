@@ -1,0 +1,2 @@
+$ cd .github/workflows
+$ cp manual.yml solution/.github/workflows
