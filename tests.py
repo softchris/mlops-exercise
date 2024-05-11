@@ -3,7 +3,7 @@ import app
 
 def test_model_file_created():
     app.main()  # Assuming the main function encapsulates the training logic
-    assert os.path.exists('models/model.pkl')
+    assert os.path.exists('models/model-that-fails.pkl')
 
 def test_model_score():
     score = app.main()  # Assuming the main function returns the score
