@@ -1,6 +1,7 @@
 pandas
-sklearn
+scikit-learn
 joblib
 faker
 pytest
 scikit-learn
+
