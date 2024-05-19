@@ -3,3 +3,4 @@ sklearn
 joblib
 faker
 pytest
+scikit-learn
