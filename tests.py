@@ -1,5 +1,6 @@
 import os
 import app
+import json
 
 def test_model_file_created():
     app.main()  # Assuming the main function encapsulates the training logic
