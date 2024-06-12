@@ -1,5 +1,10 @@
-import json
 import os
+import app
+import json
+
+def test_model_file_created():
+    app.main()  # Assuming the main function encapsulates the training logic
+    assert os.path.exists('models/model.pkl')
 
 def test_model_score():
     score = app.main()  # Assuming the main function returns the score
@@ -12,6 +17,7 @@ def test_model_score():
 
     # Get the latest model score
     latest_score = model_scores[-1]['score']
+    print("latest score: " + str(latest_score))
 
     # Compare the latest score with the current score
     assert score >= latest_score
