@@ -9,18 +9,20 @@ def load_data(filepath):
 
 def preprocess_data(data):
     # Convert Date to datetime and extract Year, Month, Day
-    data['Date'] = pd.to_datetime(data['Date'])
-    data['Year'] = data['Date'].dt.year
-    data['Month'] = data['Date'].dt.month
-    data['Day'] = data['Date'].dt.day
-    data.drop(columns='Date', inplace=True)
+    # data['Date'] = pd.to_datetime(data['Date'])
+    #data['Year'] = data['Date'].dt.year
+    #data['Month'] = data['Date'].dt.month
+    #data['Day'] = data['Date'].dt.day
+    #data.drop(columns='Date', inplace=True)
 
     # Label encode Location and Store
-    le = LabelEncoder()
-    data['Location'] = le.fit_transform(data['Location'])
-    data['Store'] = le.fit_transform(data['Store'])
+    #le = LabelEncoder()
+    #data['Location'] = le.fit_transform(data['Location'])
+    #data['Store'] = le.fit_transform(data['Store'])
 
-    return data
+
+    #deliberate error to check pull request testing mechanism in Github
+    return 10
 
 def split_data(data, target_column, test_size=0.2, random_state=42):
     X = data.drop(columns=target_column)
