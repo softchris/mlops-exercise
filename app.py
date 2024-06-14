@@ -21,7 +21,7 @@ def preprocess_data(data):
     #data['Store'] = le.fit_transform(data['Store'])
 
 
-    #deliberate error to check pull request testing mechanism in Github
+    #deliberate error to check pull request testing mechanism in
     return 10
 
 def split_data(data, target_column, test_size=0.2, random_state=42):
