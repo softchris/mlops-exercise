@@ -1,0 +1,51 @@
+Date,Amount,Location,Store,Fraudulent
+2010-11-11,208.79,North Sheliabury,Ponce-Nixon,False
+1992-08-03,291.32,Lake Corychester,Wright Inc,False
+2016-12-11,805.76,West Debratown,Baker LLC,True
+1983-10-25,517.72,West Austin,"Gibson, Watson and Mendez",True
+1985-02-23,702.11,Lake Jeffery,Mcclure Ltd,True
+1972-09-16,639.8,North Christopherborough,Goodman PLC,True
+1992-09-15,514.65,Cummingsmouth,"Jefferson, Weber and Dominguez",False
+1977-10-31,923.74,Lake Erin,Castro-Chen,True
+1972-06-26,189.19,East John,"Burnett, Pitts and Mckinney",False
+1993-09-25,484.73,Murphyberg,Romero and Sons,True
+1999-10-15,939.86,New Richardville,"Hill, Chapman and Casey",False
+2003-11-25,792.15,Karenberg,Neal-Smith,False
+2014-08-10,321.47,Webstermouth,Hogan PLC,True
+2024-03-03,639.97,Mclaughlinmouth,Fleming Inc,False
+2022-04-19,625.17,West Rachel,Hampton Inc,False
+1984-01-16,284.6,Port Patrickshire,Villegas Ltd,True
+2022-03-10,967.19,New Sabrinaton,Rodriguez and Sons,True
+2010-09-05,607.63,Rollinshaven,Martin-Yoder,False
+2000-10-08,618.48,Higginston,Middleton-Olsen,False
+1988-08-19,79.52,Charlesville,Bullock-Jenkins,True
+2020-02-26,546.21,West Chasetown,Werner Inc,True
+1982-02-13,202.62,Terryshire,Young-Holmes,False
+2018-12-24,783.65,West Elizabethmouth,Ramos-Howard,True
+2021-03-16,66.33,Lake Angelatown,Jordan Ltd,True
+2000-09-04,696.21,Careyberg,Kim Inc,False
+2003-10-25,901.53,West Tiffany,Collins PLC,False
+1986-01-03,824.46,Robinsonside,Freeman Group,True
+1981-12-30,410.87,East Emily,Diaz-Harrell,False
+2006-02-19,77.35,Lorrainetown,Valentine and Sons,False
+1986-07-16,629.77,West Ronald,Wolfe-Sanchez,False
+1971-06-13,672.79,South Michael,"Michael, Stone and Ruiz",False
+1970-06-15,4.74,New Daniel,Johnson-Clements,True
+1976-06-24,551.99,Thomasburgh,"Solomon, Wilson and Wise",True
+2018-04-22,939.87,Millerhaven,Guerrero-Hodge,True
+1970-01-23,759.67,Ortizbury,Nunez Group,True
+1987-09-26,262.19,Wilsonport,Munoz-Taylor,True
+1983-04-05,450.7,Port Melanie,"Arnold, Wolfe and Cardenas",True
+1985-07-14,498.6,Cindyborough,Maldonado-Martin,True
+1986-11-29,479.32,East Brandychester,"Gaines, Horton and Smith",False
+2000-09-16,766.51,East Margaretport,"Simmons, Boyer and Smith",True
+1989-10-28,671.17,South Patricia,Young Ltd,False
+1992-12-30,885.96,Swansonmouth,Kirby Group,True
+2009-07-29,924.55,East Jeffreyborough,Turner-Johnson,False
+1975-06-26,504.02,East Lynnview,"Weaver, Fox and Smith",True
+2014-06-19,559.37,Oliverbury,Lynn LLC,True
+1987-11-24,154.6,Victoriaview,Blankenship-Solomon,True
+2021-06-28,816.86,New Johnfurt,Howard-Howard,True
+1982-07-20,939.39,Christophertown,Scott-Cruz,True
+2015-10-16,778.66,South Ianside,Roach Ltd,True
+2002-01-20,313.41,New Jeffreychester,Clark PLC,False
