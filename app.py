@@ -22,7 +22,7 @@ def preprocess_data(data):
 
     return data
 
-def split_data(data, target_column, test_size=0.18, random_state=42):
+def split_data(data, target_column, test_size=0.2, random_state=42):
     X = data.drop(columns=target_column)
     y = data[target_column]
 
