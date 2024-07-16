@@ -5,6 +5,9 @@ def test_model_file_created():
     app.main()  # Assuming the main function encapsulates the training logic
     assert os.path.exists('models/model.pkl')
 
+def test():
+    assert True
+
 def test_model_score():
     score = app.main()  # Assuming the main function returns the score
     assert isinstance(score, float)
