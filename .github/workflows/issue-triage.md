@@ -5,10 +5,11 @@ description: Triage new issues by type and priority, detect duplicates, ask clar
 on:
   issues:
     types: [opened]
-    roles: all
+  roles: all
 permissions:
   contents: read
   issues: read
+  pull-requests: read
 strict: true
 tools:
   github:
