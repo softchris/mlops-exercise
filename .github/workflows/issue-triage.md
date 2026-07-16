@@ -61,7 +61,7 @@ Triage the triggering issue. Classify it, check for duplicates, request clarific
    - `priority:low` for low-impact polish, minor docs fixes, or nice-to-have ideas
 5. If the report is unclear or missing key details, add the `question` label and leave one concise comment with only the clarifying questions needed to continue.
 6. If the issue is a clear duplicate, add the `duplicate` label and leave one concise comment that links to the canonical issue and explains the match.
-7. Assign actionable issues to `softchris`. This repository currently has only one collaborator, so route triaged work there.
+7. Assign actionable issues to an allowed assignee from the workflow configuration. If only one allowed assignee is configured, route the issue there.
 8. If no visible change is needed, call `noop` with a short explanation.
 
 ## Output rules
