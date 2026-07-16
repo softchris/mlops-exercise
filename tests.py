@@ -2,7 +2,7 @@ import os
 import app
 
 def test():
-    assert True
+    assert False
 
 def test_model_file_created():
     app.main()  # Assuming the main function encapsulates the training logic
