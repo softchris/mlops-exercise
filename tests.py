@@ -1,6 +1,9 @@
 import os
 import app
 
+def test():
+    assert True
+
 def test_model_file_created():
     app.main()  # Assuming the main function encapsulates the training logic
     assert os.path.exists('models/model.pkl')
